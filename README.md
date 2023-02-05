@@ -10,7 +10,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/mahdifarromahdifarro/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/mahdifarro/mahdifarro/issues/new"><b>here</b></a><br>
 or <a href="mailto:mahdifarro@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
