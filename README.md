@@ -18,8 +18,9 @@ or <a href="mailto:mahdifarro@gmail.com"><b>email</b></a> me.
 </div>
 
 <div align="center">
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdifarro&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)
+-->
 
 ---
 
